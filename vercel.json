@@ -4,6 +4,8 @@
     "FEATURE_FLAGS": "-auth",
     "NEXT_PUBLIC_ENABLE_LOBEHUB_AUTH": "false",
     "NEXT_PUBLIC_ENABLE_CLOUDAUTH": "false",
-    "NEXT_PUBLIC_ENABLE_PASSWORD": "true"
+    "NEXT_PUBLIC_ENABLE_SYNC": "false",
+    "NEXT_PUBLIC_ENABLE_PASSWORD": "true",
+    "NEXT_PUBLIC_AUTH_MODE": "password"
   }
 }
